@@ -20,7 +20,6 @@ for i, stuff in data.items():
     del stuff[-1]
     ints = [int(x) for x in stuff]
     if op == '+':
-        #print(sum(int_list))
         l.append(sum(ints))
     if op == '*':
         l.append(math.prod(ints))
