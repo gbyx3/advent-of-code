@@ -1,6 +1,5 @@
 import sys
 import math
-import json
 input_file = sys.argv[1]
 input = open(input_file, "r")
 lines = input.read().split("\n")
