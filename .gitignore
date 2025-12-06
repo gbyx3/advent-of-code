@@ -1,0 +1,8 @@
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+input_data.txt
